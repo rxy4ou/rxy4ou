@@ -65,6 +65,23 @@ class Rajdeep:
 
 ---
 
+## 📂 Featured Repositories
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rxy4ou&repo=rxy4ou&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9)](https://github.com/rxy4ou/rxy4ou)
+
+</div>
+
+<!-- This section automatically updates when you create new repositories -->
+<div align="center">
+  
+[![Top Repos](https://github-profile-trophy.vercel.app/?username=rxy4ou&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia&title=Repositories,Commits,PullRequest,Issues)](https://github.com/rxy4ou?tab=repositories)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
