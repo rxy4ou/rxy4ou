@@ -65,20 +65,31 @@ class Rajdeep:
 
 ---
 
-## 📂 Featured Repositories
+## 📂 My Repositories
 
+<!-- All Repositories Section -->
 <div align="center">
+  <h3>All My Public Repositories</h3>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rxy4ou&repo=rxy4ou&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9)](https://github.com/rxy4ou/rxy4ou)
+  <!-- Repository Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rxy4ou&row=1&column=6&margin-h=8&theme=algolia&no-bg=true&no-frame=true&title=Repositories,Stars,Commits,Issues,PullRequest" alt="Repository Stats"/>
 
+  <!-- Dynamic Repository List -->
+  <a href="https://github.com/rxy4ou?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+  </a>
+  
+  <!-- Languages Overview -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxy4ou&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" alt="Most Used Languages"/>
+  
+  <!-- Repository List -->
+  <p align="center">
+    <a href="https://api.github.com/users/rxy4ou/repos" target="_blank">
+      <img src="https://img.shields.io/badge/Total%20Repos-View%20Count-00D4AA?style=flat-square&logo=github" alt="Repository Count"/>
+    </a>
+  </p>
 </div>
 
-<!-- This section automatically updates when you create new repositories -->
-<div align="center">
-  
-[![Top Repos](https://github-profile-trophy.vercel.app/?username=rxy4ou&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia&title=Repositories,Commits,PullRequest,Issues)](https://github.com/rxy4ou?tab=repositories)
-
-</div>
 
 ---
 
