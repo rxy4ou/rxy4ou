@@ -1,7 +1,7 @@
 # Hi there, I'm Rajdeep! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Student;Python+Developer+%7C+Tech+Enthusiast;Learning+and+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+@+NIT+PATNA;Python+Developer+%7C+Tech+Enthusiast;Learning+and+Growing+Every+Day" alt="Typing SVG" />
 </div>
 
 ---
